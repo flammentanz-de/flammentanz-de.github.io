@@ -31,12 +31,12 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
   </p>
     </div>
     <div class="images">
-        <img src="images/DSC02673_edited.jpg" loading="lazy" alt="Feuershow 1"/>
-        <img src="images/2G4A0024_edited.jpg" loading="lazy" alt="Feuershow 1"/>
-        <img src="images/Copy of DSC00632_edited.jpg" loading="lazy" alt="Feuershow 2"/>
-        <img src="images/2G4A9126_edited.jpg" loading="lazy" alt="Feuershow 2"/>
-         <img src="images/DSC02722_edited.jpg" loading="lazy" alt="Feuershow 2" style="width: 30%"/>
-         <img src="images/2G4A0707_edited.jpg" loading="lazy" alt="Feuershow 2"/>
+        <img src="images/fackelnsimilandscapeblickreboden.jpg" loading="lazy" alt="Feuershow 1"/>
+        <img src="images/fackelnvorgesicht.jpg" loading="lazy" alt="Feuershow 1"/>
+        <img src="images/feuerspucken.jpeg" loading="lazy" alt="Feuershow 2"/>
+        <img src="images/landofeuerweglangbelichtet.jpg" loading="lazy" alt="Feuershow 2"/>
+         <img src="images/markushaaghomepage2fans.JPG" loading="lazy" alt="Feuershow 2" style="width: 30%"/>
+         <img src="images/markushaaghomepage4.JPG" loading="lazy" alt="Feuershow 2"/>
     </div>
 </div>
  

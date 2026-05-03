@@ -35,7 +35,7 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
         <img src="images/fackelnvorgesicht.jpg" loading="lazy" alt="Feuershow 1"/>
         <img src="images/feuerspucken.jpeg" loading="lazy" alt="Feuershow 2"/>
         <img src="images/landofeuerweglangbelichtet.jpg" loading="lazy" alt="Feuershow 2"/>
-         <img src="images/markushaaghomepage2fans.JPG" loading="lazy" alt="Feuershow 2" style="width: 30%"/>
+         <img src="images/markushaaghomepage2fans.JPG" loading="lazy" alt="Feuershow 2"/>
          <img src="images/markushaaghomepage4.JPG" loading="lazy" alt="Feuershow 2"/>
     </div>
 </div>
@@ -63,6 +63,10 @@ Instagram: flammen_tanz<br/>
     </em>
     <a href="#datenschutz-modal" class="modal-open-btn">Datenschutzerklärung</a>
 </div>
+
+
+
+
 <div id="datenschutz-modal" class="modal-overlay">
     <div class="modal-content">
         <a href="#" class="modal-close">&times;</a>

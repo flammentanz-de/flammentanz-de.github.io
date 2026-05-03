@@ -21,7 +21,7 @@ title: Flammentanz - Franziska
   Wenn Funken fliegen und Flammen im Rhythmus zur Musik tanzen, entstehen hypnotische Momente zwischen Nervenkitzel und Faszination. Mit sicherer Technik, kreativen Requisiten und feurigem Charisma erschaffe ich Shows, die Emotionen entfachen und Staunen hinterlassen.
   </p><h5>Ausdrucksstarke Tanzkunst</h5>
         <p>
- Tanz ist mein Weg, Gefühle sichtbar zu machen – kraftvoll, gefühlvoll, individuell. Ob auf Festivals, Bühnen, Events, Firmen- oder privaten Feiern: Ich bringe Bewegung ins Herz und Feuer in die Augen deiner Gäste.
+ Tanz ist mein Weg, Gefühle sichtbar zu machen – kraftvoll, gefühlvoll, individuell. Ob auf Festivals, Bühnen, Events, privaten oder Firmenfeiern: Ich bringe Bewegung ins Herz und Feuer in die Augen deiner Gäste.
   </p>
          <p>Als professionelle Tänzerin und Feuerartistin liebe ich es, individuelle Shows zu kreieren, die die Intensität des Tanzes mit der Magie des Feuers vereinen.
   </p>

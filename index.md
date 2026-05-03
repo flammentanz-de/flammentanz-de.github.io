@@ -11,17 +11,17 @@ title: Flammentanz - Franziska
     <div class="text-box">
         <h5>Tanz. Feuer. Faszination.<br/>Erlebe spektakuläre Feuerkunst, die verzaubert!</h5>
         <p>
-            Willkommen in meiner Welt – einer Welt, in der Bewegung zur Sprache wird und Flammen Geschichten erzählen. Als Tänzerin mit Herz und Seele und Feuerkünstlerin mit Leidenschaft entführe ich mein Publikum in eine Sphäre voller Magie, Ausdruck und Energie.
+            Willkommen in meiner Welt – in der Bewegung zur Sprache wird und Flammen Geschichten erzählen. Als Tänzerin mit Herz und Seele und Feuerkünstlerin mit Leidenschaft entführe ich mein Publikum in eine Sphäre voller Magie, Ausdruck und Kreativität.
      </p>
         <p>
-            Ob sinnlich-elegant, kraftvoll-dynamisch oder geheimnisvoll-feurig – die Choreografien in meinen Shows sind Erlebnisse, die berühren, begeistern und unvergesslich bleiben.
+            Ob sinnlich, elegant, kraft- oder geheimnisvoll – die Choreografien meiner Performances sind Erlebnisse, die berühren, begeistern und unvergesslich bleiben.
    </p>
             <h5>Die Magie des Feuers</h5>
              <p>
-  Wenn Funken fliegen und Flammen im Rhythmus zur Musik tanzen, entsteht ein hypnotischer Moment zwischen Gefahr und Schönheit. Mit sicherer Technik, kreativen Requisiten und feurigem Charisma erschaffe ich Shows, die Emotionen entfachen und Staunen hinterlassen.
+  Wenn Funken fliegen und Flammen im Rhythmus zur Musik tanzen, entstehen hypnotische Momente zwischen Nervenkitzel und Faszination. Mit sicherer Technik, kreativen Requisiten und feurigem Charisma erschaffe ich Shows, die Emotionen entfachen und Staunen hinterlassen.
   </p><h5>Ausdrucksstarke Tanzkunst</h5>
         <p>
- Tanz ist mein Weg, Gefühle sichtbar zu machen – kraftvoll, gefühlvoll, individuell. Ob auf Festivals, Bühnen, Events oder privaten Feiern: Ich bringe Bewegung ins Herz und Feuer in die Augen deiner Gäste.
+ Tanz ist mein Weg, Gefühle sichtbar zu machen – kraftvoll, gefühlvoll, individuell. Ob auf Festivals, Bühnen, Events, Firmen- oder privaten Feiern: Ich bringe Bewegung ins Herz und Feuer in die Augen deiner Gäste.
   </p>
          <p>Als professionelle Tänzerin und Feuerartistin liebe ich es, individuelle Shows zu kreieren, die die Intensität des Tanzes mit der Magie des Feuers vereinen.
   </p>
@@ -43,7 +43,7 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
 <div class="second-slide one-box">
     <div class="text-box">
         <h4>Über mich</h4>
-        <p class="text">Seit meiner Kindheit begleitet mich das Tanzen durch mein Leben. Während meiner Jugend sammelte ich bereits vielfältige Bühnenerfahrung als Mitglied der Contemporary-Dance-Company der Tanzschule von Barbara J. Lins, dem „TanzRAUM“ in Nördlingen. Es folgte eine Ausbildung zur Tanzpädagogin sowie ein Studium der Musik- und bewegungsorientierten Sozialen Arbeit in Regensburg. Seit 2014 bin ich als Tanzpädagogin und Choreografin tätig. Vor über zehn Jahren hielt ich meine ersten Feuerpoi in den Händen, seitdem hat mich die Faszination für Feuerartistik fest im Griff. Tanz und Feuerkunst sind meine Leidenschaft. Im März 2024 habe ich mir einen Traum erfüllt, und mich als Feuerkünstlerin, Tanzpädagogin und Tänzerin selbstständig gemacht.
+        <p class="text">Seit meiner Kindheit begleitet mich das Tanzen durch mein Leben. Während meiner Jugend sammelte ich bereits vielfältige Bühnenerfahrung als Mitglied der Contemporary-Dance-Company der Tanzschule von Barbara J. Lins, dem „TanzRAUM“ in Nördlingen. Es folgte eine Ausbildung zur Tanzpädagogin sowie ein Studium der Musik- und bewegungsorientierten Sozialen Arbeit in Regensburg. Seit 2014 bin ich als Tanzpädagogin und Choreografin tätig. Vor über zehn Jahren hielt ich meine ersten Feuerpoi in den Händen, seitdem hat mich die Faszination für Feuerartistik fest im Griff. Tanz und Feuerkunst sind meine Leidenschaft. Seit 2024 bin ich Tänzerin in der Magnify Dance Crew und habe mir den Traum erfüllt, mich als Feuerkünstlerin, Tanzpädagogin und Tänzerin selbstständig zu machen.
         </p>
     </div>
     </div>

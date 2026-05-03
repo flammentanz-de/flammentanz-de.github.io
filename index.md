@@ -31,7 +31,6 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
   </p>
     </div>
     <div class="images">
-        <img src="images/fackelnsimilandscapeblickreboden.jpg" loading="lazy" alt="Feuershow 1"/>
         <img src="images/fackelnvorgesicht.jpg" loading="lazy" alt="Feuershow 1"/>
         <img src="images/feuerspucken.jpeg" loading="lazy" alt="Feuershow 2"/>
         <img src="images/landofeuerweglangbelichtet.jpg" loading="lazy" alt="Feuershow 2"/>
@@ -46,8 +45,12 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
         <p class="text">Seit meiner Kindheit begleitet mich das Tanzen durch mein Leben. Während meiner Jugend sammelte ich bereits vielfältige Bühnenerfahrung als Mitglied der Contemporary-Dance-Company der Tanzschule von Barbara J. Lins, dem „TanzRAUM“ in Nördlingen. Es folgte eine Ausbildung zur Tanzpädagogin sowie ein Studium der Musik- und bewegungsorientierten Sozialen Arbeit in Regensburg. Seit 2014 bin ich als Tanzpädagogin und Choreografin tätig. Vor über zehn Jahren hielt ich meine ersten Feuerpoi in den Händen, seitdem hat mich die Faszination für Feuerartistik fest im Griff. Tanz und Feuerkunst sind meine Leidenschaft. Seit 2024 bin ich Tänzerin in der Magnify Dance Crew und habe mir den Traum erfüllt, mich als Feuerkünstlerin, Tanzpädagogin und Tänzerin selbstständig zu machen.
         </p>
     </div>
+</div>
     </div>
-    </div>
+
+<div class="images">
+<img src="images/fackelnsimilandscapeblickreboden.jpg" loading="lazy" alt="Feuershow 1"/>
+</div>
 
 <div class="third-slide">
     <h4>Kontakt</h4>

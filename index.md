@@ -60,11 +60,13 @@ Birkenallee 24<br/>
 36037 Fulda <br/>
 Mail: booking@flammentanz.de <br/>
 Instagram: flammen_tanz<br/>
-
     </em>
+    <a href="#datenschutz-modal" class="modal-open-btn">Datenschutzerklärung</a>
 </div>
-
-
+<div id="datenschutz-modal" class="modal-overlay">
+    <div class="modal-content">
+        <a href="#" class="modal-close">&times;</a>
+        <div class="dsgvo">
 <div class="dsgvo">
 <h1><strong>Datenschutzerklärung</strong></h1>
 <p>Es freut uns sehr, dass Sie sich für unsere Organisation interessieren. Der Schutz Ihrer personenbezogenen Daten ist unserer Geschäftsleitung besonders wichtig. Sie können unsere Webseiten nutzen, ohne uns dabei personenbezogene Daten preiszugeben. Sofern Sie jedoch speziellere Dienste über unsere Webseiten, andere Internetauftritte, Applikationen und Social Media Seiten von uns eingeschlossen, in Anspruch nehmen möchten, müssen wir gegebenenfalls Ihre personenbezogenen Daten verarbeiten. Sofern wir Daten über Sie verarbeiten möchten und wir uns auf keine andere Rechtsgrundlage berufen können, fragen wir Sie immer zuerst nach Ihrer Einwilligung (z.B. über einem Cookie-Banner).</p>
@@ -217,6 +219,9 @@ Instagram: flammen_tanz<br/>
 <p>Die Betreibergesellschaft des Dienstes sitzt in einem Drittland, nämlich in den USA. Übermittlungen in Drittländer können auf dem Abschluss von Standardvertragsklauseln oder auf sonstigen geeigneten oder angemessenen Garantien die in Art. 46 (2) DS-GVO genannt sind, beruhen. Die Betreibergesellschaft des Dienstes ist gegebenenfalls zertifiziertes Mitglied in einem oder mehreren der Data Privacy Frameworks. Nähere Angaben finden Sie unter https://www.dataprivacyframework.gov/list. Eine Kopie der geeigneten oder angemessenen Garantien können Sie bei uns anfordern.</p>
 <p>Die Kriterien für die Festlegung der Dauer, für die die personenbezogenen Daten verarbeitet werden, sind das Vertragsverhältnis zwischen uns und der Betreibergesellschaft des Dienstes oder gesetzliche oder vertragliche Aufbewahrungsfristen. Die Bereitstellung der personenbezogenen Daten ist weder gesetzlich oder vertraglich vorgeschrieben noch für einen Vertragsabschluss erforderlich. Sie sind nicht verpflichtet, uns oder der Betreibergesellschaft des Dienstes personenbezogene Daten bereitzustellen. Bei der Nichtbereitstellung können unsere Services oder die der Betreibergesellschaft des Dienstes jedoch gegebenenfalls nicht in Anspruch genommen werden.</p>
 <p>Weitere Informationen und die geltenden Datenschutzbestimmungen von Google Fonts können unter https://policies.google.com/privacy eingesehen werden.</p>
+    </div>
+    </div>
+</div>
 <p>Diese Datenschutzerklärung wurde durch die Nutzung eines Generators erstellt, der gemeinsam von <a href="https://www.wbs.legal/">juristischen Experten für IT-Recht</a>, <a href="https://dg-datenschutz.de/">Datenschutzkoordinatoren</a> und der <a href="https://cert-authority.com/">ISO 22301 Zertifizierungsstelle</a> entwickelt wurde.</p>
 
 </div>
